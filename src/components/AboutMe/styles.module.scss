@@ -1,0 +1,16 @@
+.aboutme {
+    display: flex;
+    padding-top: 3rem;
+}
+
+.skills {
+    width: 140px;
+    height: 140px;
+    margin-top: 15px;
+}
+
+@media screen and (max-width: 500px) {
+    .mobile {
+        width: 50%;
+    }
+}
